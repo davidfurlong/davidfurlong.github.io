@@ -1,1 +1,1 @@
-davidfurlong.github.io/scrolling-website
+http://davidfurlong.github.io/scrolling-website
